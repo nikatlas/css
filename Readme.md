@@ -1,4 +1,5 @@
-# css [![Build Status](https://travis-ci.org/reworkcss/css.svg?branch=master)](https://travis-ci.org/reworkcss/css)
+This is the same package as css on npm forked and commented out the source map stuff in order to make it independent from node host libraries like 'fs'.
+
 
 CSS parser / stringifier.
 
